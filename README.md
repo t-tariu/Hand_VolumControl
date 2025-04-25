@@ -1,4 +1,4 @@
 pip install pycaw
   --> source: AndreMiras (follow the Usage)
 
-<Only for window>
+(Only for window)
